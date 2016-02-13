@@ -6,3 +6,28 @@ research
 bonus system
 production stat influences build time, influenced by number of workers allocated to production
 income influenced taxes and the number of workers allocated to rescource gathering
+
+
+County/province/state
+Production
+income
+science
+population
+
+factories
+standard factory - gives production
+advanced factory - gives more production, trains simple units (infrantry) (costs more)
+
+Differant factories have different build queues
+allows for prioritization of buildings within counties
+
+Researchable factories
+tank base
+anti tank base
+infrantry barracks
+airport - aircraft land - aircraft take off - refuel - trade point
+aircraft hanger - aircraft maintenance - building aircraft
+
+territory
+control, capture
+to capture territory, there must me no enemy units, this allows for the option to annex the territory

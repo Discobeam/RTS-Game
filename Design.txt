@@ -1,0 +1,8 @@
+1900-2000
+land, sea, and air
+England
+rescource management
+research
+bonus system
+production stat influences build time, influenced by number of workers allocated to production
+income influenced taxes and the number of workers allocated to rescource gathering

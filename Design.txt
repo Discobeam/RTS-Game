@@ -1,4 +1,4 @@
-1900-2000
+A RTS game where you control an empire in the years 1900-2000.
 land, sea, and air
 England
 rescource management
